@@ -1,6 +1,6 @@
 # Hi, I'm Christopher Madariaga 👋
 
-**Programmer · Data Scientist · Technology Leader · Graduate student, M.S. Computer Science & AI (in progress), Boston University**
+**Software Engineer · Data Scientist · Technology Leader · Graduate student, M.S. Computer Science & AI (in progress), Boston University**
 
 📄 **[View my resume](https://github.com/catopher/catopher/blob/main/Christopher_Madariaga_Resume.pdf)** · 🌐 [phantomanalytics.com](https://phantomanalytics.com) · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
 
