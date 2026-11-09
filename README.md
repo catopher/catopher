@@ -34,9 +34,4 @@ I started as a developer and today I'm Director of Enterprise Applications at Qu
 - **Learning:** go deeper on algorithms, distributed data systems, and machine learning
 - **Professional:** bring modern data-engineering and AI practices into ERP and finance environments
 
-### 📂 Explore my work
-| Repo | What's inside |
-|---|---|
-| [Cx651-BU](https://github.com/catopher/Cx651-BU) | Systems coursework, including a networked Connect 4 game written in C over UDP |
 
-*I'll pin more projects here as I complete them during the program.*
