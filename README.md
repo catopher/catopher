@@ -2,7 +2,7 @@
 
 **Software Engineer · Data Scientist · Technology Leader · Graduate student, M.S. Computer Science & AI (in progress), Boston University**
 
-📄 **[View my resume](https://github.com/catopher/catopher/blob/main/Christopher_Madariaga_Resume.pdf)** · 🌐 [phantomanalytics.com](https://phantomanalytics.com) · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+📄 **[View my resume](https://github.com/catopher/catopher/blob/main/Christopher_Madariaga_Resume.pdf)** · 🌐 [phantomanalytics.com](https://phantomanalytics.com) · 💼 [LinkedIn](https://www.linkedin.com/in/christopher-madariaga-b400258/)
 
 ---
 
